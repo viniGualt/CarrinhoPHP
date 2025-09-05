@@ -2,7 +2,7 @@
 
 1. Certifique-se de que o XAMPP está instalado e rodando no seu computador. Você deve possuir o módulo "Apache" online (o fundo aparecerá verde claro).
 
-2. Coloque a pasta do projeto dentro de C:\xampp\htdocs\carrinho.
+2. Coloque os arquivos do projeto dentro de C:\xampp\htdocs\carrinho.
 
 3. Abra o navegador e acesse:
 
