@@ -44,5 +44,3 @@ echo "<hr>";
 echo "<h4>Caso 5 — Aplicando cupom CUPOMINVALIDO</h4>";
 $cart->listItems(coupon: "CUPOMINVALIDO");
 echo "<hr>";
-
-?>
